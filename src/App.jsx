@@ -1,8 +1,6 @@
 import { Route, Routes, useLocation } from 'react-router-dom';
 import Contact from './Pages/Contact';
 import Navbar from './Components/Navbar';
-import { useGSAP } from '@gsap/react';
-import gsap from 'gsap';
 import { DarkModeProvider, useDarkMode } from './Context/DarkModeContext';
 import Homes from './Routesow/Homes';
 import Aboutes from './Routesow/Aboutes';
@@ -15,9 +13,7 @@ const AppContent = () => {
   const location = useLocation();
   const isHome = location.pathname === '/';
 
-  useGSAP(() => {
-    gsap
-  });
+  
 
   return (
     <div className={`min-h-screen transition-colors duration-300 ${
