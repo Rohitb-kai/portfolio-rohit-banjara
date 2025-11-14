@@ -1,6 +1,7 @@
 import React from 'react'
 import ProjectDataAnlysics from './ProjectDataAnlysics.jsx';
-import ProjectFullStack from './projectFullStack.jsx';
+import ProjectFullStack from '.ProjectFullStack.jsx';
+
 
 const Projectmain = ({ filter = 'all' }) => {
   // show components based on filter
