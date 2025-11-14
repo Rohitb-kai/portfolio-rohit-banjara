@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 
 
-const ProjectFullStack = () => {
+const ProjectFullStack  = () => {
 
   const [showPreview,setShowPreview] =useState(false);
   const [currentIndex,setCurrentIndex] =useState(0);
