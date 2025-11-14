@@ -33,7 +33,7 @@ const Homeicone = () => {
 
         <div className="p-2 sm:p-3 rounded-full bg-white/10 backdrop-blur-sm border border-white/20 dark:border-gray-700 text-white dark:text-gray-200 hover:bg-white/20 transition-all duration-300 group">
           <a
-            href="mailto:banjararohit@gmail.com"
+            href="mailto:banjararohit9887@gmail.com"
             target="_blank"
             rel="noopener noreferrer"
             tabIndex="0"
