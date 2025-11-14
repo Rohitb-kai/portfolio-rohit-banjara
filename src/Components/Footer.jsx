@@ -33,7 +33,7 @@ const Footer = () => {
                     <rect x="2" y="4" width="20" height="16" rx="2"></rect>
                   </svg>
                   <span className="text-xs sm:text-sm break-all">
-                    banjararohit@gmail.com
+                    banjararohit9887gmail.com
                   </span>
                 </div>
                 <div className="flex items-center space-x-2 sm:space-x-3">

@@ -7,7 +7,7 @@ const ProjectFullStack  = () => {
   const [currentIndex,setCurrentIndex] =useState(0);
 
   const images =[
-    "/images/ecomm1.jpeg",
+    "/images/ecomm1.jpg",
     "/images/ecomm2.jpg",
     "/images/ecomm3.jpg",
     "/images/ecomm4.jpg",
