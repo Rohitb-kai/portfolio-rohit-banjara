@@ -1,6 +1,6 @@
 import React from 'react'
-import Achievements from '../Pages/Achievements'
-import Contact from '../Pages/Contact'
+import Achievements from '../Pages/Achievements.jsx'
+import Contact from '../Pages/Contact.jsx'
 
 const Achievementes = () => {
   return (

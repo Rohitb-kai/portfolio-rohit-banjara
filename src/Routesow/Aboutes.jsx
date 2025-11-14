@@ -1,9 +1,9 @@
 import React from 'react'
-import About from '../Pages/About'
-import Skills from '../Pages/Skills'
-import Projects from '../Pages/Projects'
-import Achievements from '../Pages/Achievements'
-import Contact from '../Pages/Contact'
+import About from '../Pages/About.jsx'
+import Skills from '../Pages/Skills.jsx'
+import Projects from '../Pages/Projects.jsx'
+import Achievements from '../Pages/Achievements.jsx'
+import Contact from '../Pages/Contact.jsx'
 
 const Aboutes = () => {
   return (

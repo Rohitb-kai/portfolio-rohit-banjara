@@ -1,6 +1,6 @@
 import React from 'react'
-import ContactForm from './ContactForm'
-import ContactsecLeft from './ContactsecLeft'
+import ContactForm from './ContactForm.jsx'
+import ContactsecLeft from './ContactsecLeft.jsx'
 
 const Contactsecond = () => {
   return (

@@ -1,7 +1,7 @@
 import React from "react";
-import ContactTop from "../Components/contact/ContactTop";
-import Contactsecond from "../Components/contact/Contactsecond";
-import ContactBottem from "../Components/contact/ContactBottem";
+import ContactTop from "../Components/contact/ContactTop.jsx";
+import Contactsecond from "../Components/contact/Contactsecond.jsx";
+import ContactBottem from "../Components/contact/ContactBottem.jsx";
 import Footer from "../Components/Footer";
 
 const Contact = () => {

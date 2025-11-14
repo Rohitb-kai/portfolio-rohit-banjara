@@ -1,6 +1,6 @@
 import React from "react";
-import AboutLift from "../Components/about/AboutLift";
-import AboutRight from "../Components/about/AboutRight";
+import AboutLift from "../Components/about/AboutLift.jsx";
+import AboutRight from "../Components/about/AboutRight.jsx";
 
 const About = () => {
   return (

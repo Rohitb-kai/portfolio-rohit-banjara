@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Link, NavLink, useLocation } from "react-router-dom";
-import { useDarkMode } from "../Context/DarkModeContext";
-import DarkMode from "./DarkMode";
+import { useDarkMode } from "../Context/DarkModeContext.jsx";
+import DarkMode from "./DarkMode.jsx";
 import {Menu,X} from "lucide-react";
 
 const Navbar = () => {

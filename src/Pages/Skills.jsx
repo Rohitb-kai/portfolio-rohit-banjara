@@ -1,8 +1,8 @@
 import React from 'react'
-import TopSkill from '../Components/Skills/TopSkill'
-import FrontEndSkills from '../Components/Skills/FrontEndSkills'
-import BackEndSkills from '../Components/Skills/BackEndSkills'
-import DataAnalytics from '../Components/Skills/DataAnalytics'
+import TopSkill from '../Components/Skills/TopSkill.jsx'
+import FrontEndSkills from '../Components/Skills/FrontEndSkills.jsx'
+import BackEndSkills from '../Components/Skills/BackEndSkills.jsx'
+import DataAnalytics from '../Components/Skills/DataAnalytics.jsx'
 
 const Skills = () => {
   return (

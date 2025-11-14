@@ -1,8 +1,8 @@
 import React from 'react'
-import Skills from '../Pages/Skills'
-import Projects from '../Pages/Projects'
-import Achievements from '../Pages/Achievements'
-import Contact from '../Pages/Contact'
+import Skills from '../Pages/Skills.jsx'
+import Projects from '../Pages/Projects.jsx'
+import Achievements from '../Pages/Achievements.jsx'
+import Contact from '../Pages/Contact.jsx'
 
 export const Skilles = () => {
   return (

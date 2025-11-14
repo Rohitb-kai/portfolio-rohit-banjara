@@ -1,7 +1,7 @@
 import React, { useState } from "react";
-import ProjectTop from "../Components/project/ProjectTop";
-import ProjectSecond from "../Components/project/ProjectSecond";
-import Projectmain from "../Components/project/Projectmain";
+import ProjectTop from "../Components/project/ProjectTop.jsx";
+import ProjectSecond from "../Components/project/ProjectSecond.jsx";
+import Projectmain from "../Components/project/Projectmain.jsx";
 
 const Projects = () => {
   const [filter, setFilter] = useState('all');

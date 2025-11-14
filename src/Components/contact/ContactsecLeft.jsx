@@ -1,5 +1,5 @@
 import React from 'react'
-import Contectcv from './contectcv'
+import Contectcv from './Contectcv.jsx'
 
 const ContactsecLeft = () => {
   return (
@@ -250,7 +250,7 @@ const ContactsecLeft = () => {
                 </button>
                 </a>
                 <div>
-                  <Contectcv/>
+                    <Contectcv/>
                 </div>
             </div>
         </div>

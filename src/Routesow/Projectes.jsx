@@ -1,7 +1,7 @@
 import React from 'react'
-import Projects from '../Pages/Projects'
-import Achievements from '../Pages/Achievements'
-import Contact from '../Pages/Contact'
+import Projects from '../Pages/Projects.jsx'
+import Achievements from '../Pages/Achievements.jsx'
+import Contact from '../Pages/Contact.jsx'
 
 const Projectes = () => {
   return (

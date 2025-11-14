@@ -1,5 +1,5 @@
 import React from 'react'
-import DownloadCV from '../DownloadCV'
+import DownloadCV from '../DownloadCV.jsx'
 
 const HomeButton = () => {
   return (

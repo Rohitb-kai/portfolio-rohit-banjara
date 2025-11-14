@@ -1,8 +1,8 @@
 import React from 'react'
-import Skills from '../Pages/Skills';
-import About from '../Pages/About';
-import Projects from '../Pages/Projects';
-import Achievements from '../Pages/Achievements';
+import Skills from '../Pages/Skills.jsx';
+import About from '../Pages/About.jsx';
+import Projects from '../Pages/Projects.jsx';
+import Achievements from '../Pages/Achievements.jsx';
 import { Contact } from 'lucide-react';
 
 const Footer = () => {
