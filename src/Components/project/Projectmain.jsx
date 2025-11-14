@@ -1,6 +1,6 @@
 import React from 'react'
-import ProjectFullStack from './ProjectFullStack.jsx';
 import ProjectDataAnlysics from './ProjectDataAnlysics.jsx';
+import ProjectFullStack from './projectFullStack.jsx';
 
 const Projectmain = ({ filter = 'all' }) => {
   // show components based on filter
@@ -10,7 +10,7 @@ const Projectmain = ({ filter = 'all' }) => {
   return (
     <div>
       <div className="grid grid-cols-1 mx-5 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6 lg:gap-8 mb-8 sm:mb-12">
-        {showFull && <ProjectFullStack />}
+        {showFull && <ProjectFullStack/>}
         {showData && <ProjectDataAnlysics />}
       </div>
     </div>
