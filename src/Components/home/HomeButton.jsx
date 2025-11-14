@@ -1,6 +1,5 @@
 import React from 'react'
 import DownloadCV from '../DownloadCV'
-import Projects from '../../Pages/Projects'
 
 const HomeButton = () => {
   return (

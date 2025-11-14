@@ -1,7 +1,7 @@
 import React from 'react'
-import Top from '../Components/Achievements/Top';
-import Second from '../Components/Achievements/second';
-import Bottem from '../Components/Achievements/bottem';
+import Top from '../Components/Achievements/Top.jsx';
+import Second from '../Components/Achievements/Second.jsx';
+import Bottem from '../Components/Achievements/Bottem.jsx';
 
 const Achievements = () => {
   return (

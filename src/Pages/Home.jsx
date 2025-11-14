@@ -1,9 +1,9 @@
 import React from "react";
-import Video from "../Components/home/video";
+import Video from "../Components/home/Video.jsx";
 import img12 from "../assets/img1.jpg";
-import HomeButton from "../Components/home/HomeButton";
-import Homeicone from "../Components/home/Homeicone";
-import HomeToptext from "../Components/home/HomeToptext";
+import HomeButton from "../Components/home/HomeButton.jsx";
+import Homeicone from "../Components/home/Homeicone.jsx";
+import HomeToptext from "../Components/home/HomeToptext.jsx";
 
 
 const Home = () => {
