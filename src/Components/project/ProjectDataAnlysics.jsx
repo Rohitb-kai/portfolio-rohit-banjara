@@ -6,11 +6,11 @@ const ProjectDataAnlysics = () => {
   const [currentIndexs,setCurrentIndexs] =useState(0);
 
   const images =[
-    "/dataimages/dataimg1.jpg",
-    "/dataimages/dataimg2.jpg",
-    "/dataimages/dataimg3.jpg",
-    "/dataimages/dataimg4.jpg",
-    "/dataimages/dataimg5.jpg",
+    "/images/ola1.jpg",
+    "/images/ola2.jpg",
+    "/images/ola3.jpg",
+    "/images/ola4.jpg",
+    "/images/ola5.jpg",
   ];
 
   const nextImage =() =>{

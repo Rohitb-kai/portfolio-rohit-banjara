@@ -7,12 +7,12 @@ const ProjectFullStack = () => {
   const [currentIndex,setCurrentIndex] =useState(0);
 
   const images =[
-    "/images/img1.png",
-    "/images/img2.jpg",
-    "/images/img3.jpg",
-    "/images/img4.jpg",
-    "/images/img5.jpg",
-    "/images/img6.jpg",
+    "/images/ecomm1.jpeg",
+    "/images/ecomm2.jpg",
+    "/images/ecomm3.jpg",
+    "/images/ecomm4.jpg",
+    "/images/ecomm5.jpg",
+    "/images/ecomm6.jpg",
   ];
 
   const nextImage =() =>{

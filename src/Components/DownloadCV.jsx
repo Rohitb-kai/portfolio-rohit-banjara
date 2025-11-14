@@ -4,7 +4,7 @@ import React, { useCallback } from 'react'
 // and reference it with a root-relative path: '/Rohit_Kumar_Resume.pdf'
 const DownloadCV = () => {
     const handleDownload = useCallback(() => {
-        const url = '/cv.pdf';
+        const url = '/images/cv.pdf';
         const link = document.createElement('a');
         link.href = url;
         // Suggest a filename for the downloaded file
