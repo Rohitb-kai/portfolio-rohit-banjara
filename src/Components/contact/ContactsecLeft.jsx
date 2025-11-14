@@ -43,7 +43,7 @@ const ContactsecLeft = () => {
                       Email
                     </h4>
                     <p className="text-xs sm:text-sm text-gray-600">
-                      banjararohit@gmail.com
+                      banjararohit9887@gmail.com
                     </p>
                   </div>
                 </a>
